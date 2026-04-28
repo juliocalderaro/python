@@ -54,18 +54,20 @@ cálculo y cualquier otro archivo sensible.
 2. Ejecuta `Encriptador.exe`
 3. ¡Listo! No requiere instalación
 
-📖 Cómo usar
-Encriptar un archivo
+## 📖 Cómo usar
+### Encriptar un archivo
 Clic en "Encriptar Archivo"
 Selecciona el archivo a proteger
 Confirma la operación
 El archivo queda protegido ✅
-Desencriptar un archivo
+
+### Desencriptar un archivo
 Clic en "Desencriptar Archivo"
 Selecciona el archivo encriptado
 Confirma la operación
 El archivo vuelve a su estado original ✅
-Gestión de claves
+
+### Gestión de claves
 Acción	Descripción
 Nueva Clave	Genera una nueva clave de encriptación
 Exportar	Guarda una copia de la clave en lugar seguro
