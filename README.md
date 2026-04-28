@@ -82,3 +82,27 @@ La misma clave usada para encriptar debe usarse para desencriptar
 Al encriptar, el archivo original es reemplazado por su versión encriptada
 No encriptes archivos críticos del sistema operativo
 Guarda copias de tu clave en múltiples ubicaciones seguras
+
+## 🛠️ Tecnologías
+Tecnología	Uso	Versión
+Python	Lenguaje base	3.x
+Tkinter	Interfaz gráfica	Incluida
+cryptography	Encriptación Fernet	Latest
+PyInstaller	Generación de ejecutable	Latest
+
+## 📝 Historial de versiones
+Versión	Año	Cambios
+v1.0	2021	Versión original
+v2.0	2024	Refactorización, GUI mejorada, archivo único
+
+## 👨‍💻 Autor
+Jcc (Julio César Calderaro)
+Versión original: 2021
+Versión actualizada: 2024
+
+## 📄 Licencia
+Software de uso libre para fines personales y educativos.
+
+El autor no se hace responsable por pérdida de datos debido
+a mal uso, pérdida de claves, o cualquier problema derivado
+del uso de esta aplicación.
