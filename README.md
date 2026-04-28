@@ -72,3 +72,13 @@ Acción	Descripción
 Nueva Clave	Genera una nueva clave de encriptación
 Exportar	Guarda una copia de la clave en lugar seguro
 Importar	Carga una clave previamente exportada
+
+## ⚠️ Advertencias importantes
+### ¡CRÍTICO! Si pierdes el archivo clave.key, NO podrás
+recuperar tus archivos encriptados. Realiza siempre copias
+de seguridad de tu clave.
+
+La misma clave usada para encriptar debe usarse para desencriptar
+Al encriptar, el archivo original es reemplazado por su versión encriptada
+No encriptes archivos críticos del sistema operativo
+Guarda copias de tu clave en múltiples ubicaciones seguras
